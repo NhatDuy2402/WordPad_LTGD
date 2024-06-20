@@ -1,0 +1,85 @@
+D:\MyWordPad (1)\bin\Debug\MyWordPad.exe.config
+D:\MyWordPad (1)\bin\Debug\MyWordPad.exe
+D:\MyWordPad (1)\bin\Debug\MyWordPad.pdb
+D:\MyWordPad (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\MyWordPad (1)\obj\Debug\MyWordPad.Form1.resources
+D:\MyWordPad (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\MyWordPad (1)\obj\Debug\MyWordPad.Resize.resources
+D:\MyWordPad (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\MyWordPad (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\MyWordPad (1)\obj\Debug\MyWordPad.exe
+D:\MyWordPad (1)\obj\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\bin\Debug\MyWordPad.exe.config
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\bin\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\bin\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.Find.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.Form1.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.Replace.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.Resize.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\Dat 6\MyWordPad (1)\obj\Debug\MyWordPad.pdb
+D:\word\MyWordPad (1)\bin\Debug\MyWordPad.exe.config
+D:\word\MyWordPad (1)\bin\Debug\MyWordPad.exe
+D:\word\MyWordPad (1)\bin\Debug\MyWordPad.pdb
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.Find.resources
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.Form1.resources
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.Replace.resources
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.Resize.resources
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.exe
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.pdb
+D:\word\MyWordPad (1)\obj\Debug\MyWordPad.DateAndTime.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\bin\Debug\MyWordPad.exe.config
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\bin\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\bin\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.DateAndTime.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Find.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Form1.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Replace.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Resize.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad1\MyWordPad (1)\obj\Debug\MyWordPad.Paint.resources
+D:\word\MyWordPad (1) (1)\bin\Debug\MyWordPad.exe.config
+D:\word\MyWordPad (1) (1)\bin\Debug\MyWordPad.exe
+D:\word\MyWordPad (1) (1)\bin\Debug\MyWordPad.pdb
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.DateAndTime.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Find.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Form1.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Paint.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Replace.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.Resize.resources
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.exe
+D:\word\MyWordPad (1) (1)\obj\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\bin\Debug\MyWordPad.exe.config
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\bin\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\bin\Debug\MyWordPad.pdb
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.DateAndTime.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.Find.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.Form1.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.Paint.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.Properties.Resources.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.Replace.resources
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.exe
+F:\Year2 - HK2\Lập trình giao diện\BTL\WordPad3\MyWordPad (1) (1)\obj\Debug\MyWordPad.pdb
+D:\word\MyWordPad (1) (1)\MyWordPad (1) (1)\bin\Debug\MyWordPad.exe.config
+D:\word\MyWordPad (1) (1)\MyWordPad (1) (1)\obj\Debug\MyWordPad.exe
+D:\word\MyWordPad (1) (1)\MyWordPad (1) (1)\obj\Debug\MyWordPad.pdb
